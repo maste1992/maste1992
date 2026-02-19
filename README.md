@@ -2,7 +2,7 @@
 
 🚀 Software Developer  
 💻 Full-stack Developer  
-  Telegram Bot Developer
+ Telegram Bot Developer
 📍 Ethiopia  
 
 ## 👩‍💻 Skills
@@ -13,9 +13,10 @@
 - Git & GitHub
 
 ## 🔥 Projects
-- Smart Job Application System
-- ERP Bots
+- Telegram  Bots,File converter
+- Erpnext Sytem 
 - Automation Systems
+- Music Player
 
 ## 📫 Contact Me
 - GitHub: https://github.com/maste1992
