@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Mastewal Tesafaye
 
-<!--
-**maste1992/maste1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer  
+💻 Full-stack Developer  
+📍 Ethiopia  
 
-Here are some ideas to get you started:
+## 👩‍💻 Skills
+- JavaScript
+- Node.js
+- React
+- Python
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- Smart Job Application System
+- ERP Bots
+- Automation Systems
+
+## 📫 Contact Me
+- GitHub: https://github.com/maste1992
+- Email: your-email@example.com
+
+---
+✨ Building smart systems for real-world problems
