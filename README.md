@@ -18,7 +18,8 @@
 
 ## 📫 Contact Me
 - GitHub: https://github.com/maste1992
-- Email: your-email@example.com
+- Email: tmastewal908@gmail.com
+- linkedin:www.linkedin.com/in/mastewal-tesfaye-yitie-981480314
 
 ---
 ✨ Building smart systems for real-world problems
