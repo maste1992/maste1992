@@ -2,6 +2,7 @@
 
 🚀 Software Developer  
 💻 Full-stack Developer  
+  Telegram Bot Developer
 📍 Ethiopia  
 
 ## 👩‍💻 Skills
